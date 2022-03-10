@@ -1,4 +1,4 @@
-Q1) Avec les dominos du fichier dominos2.txt, il n'y a qu'une seule solution à l'instance donnée dans le sujet.
+Q1) Avec les dominos du fichier dominos2.txt, il n'y a qu'une seule solution au problème PCP.
 Le programme ne peux donc pas poser de questions car un seul choix est possible à chaque étape.
 
 Q2) Solution triviale : domino 1
