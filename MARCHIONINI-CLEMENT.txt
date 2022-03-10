@@ -1,0 +1,10 @@
+Q1) Avec les dominos du fichier dominos2.txt, il n'y a qu'une seule solution à l'instance donnée dans le sujet.
+Le programme ne peux donc pas poser de questions car un seul choix est possible à chaque étape.
+
+Q2) Solution triviale : domino 1
+Solution non triviale : 0 1 0 1 2
+
+Q3) La solution en appliquant cette règle est longue car le domino 0 a sa partie y plus longue que sa partie x et seulement le domino 5 a sa partie x plus longue que sa partie y.
+Nous sommes donc obligé d'avoir plusieurs fois le 5 afin d'égaliser la partie x avec la partie y.
+
+Q4)
