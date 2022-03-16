@@ -157,7 +157,11 @@ int main(int argc, char* argv[]) {
    alloc_doms(0, doms_size);
    doms_lus = input_dominos(fichier);
    while (is_not_finished() && (i++ < MAX_RUNS)) add_domino(find_domino());
-   printf("Mot accepte !\n");
+   if(i-1!=MAX_RUNS){
+      printf("Mot accepté !\n");
+   } else{
+   	  printf("Mot non accepté !\n");
+   }
    print_mots();
    return 0;
 }
