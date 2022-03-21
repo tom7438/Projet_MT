@@ -1,13 +1,11 @@
-$ $bMa$
+$ $aaMaa$
 
 aMa$ M
 M$ $
 bMb$ M
 
-aa a
 a$ a$
 
-bb b
 b$ b$
 
 a a
