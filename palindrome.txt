@@ -1,20 +1,11 @@
-$ $aaMaa$
-
-aMa$ M
-M$ $
-bMb$ M
-
-a$ a$
-
-b$ b$
-
-a a
-a a$
-bMb M
-
-b b
-b b$
-aMa M
-
-M $
-$$$ $ 
+$   $abMba$
+M$   $
+bMb$   M
+aMa$   M
+a   a
+b   b
+bMb   M
+aMa   M
+$$$   $
+$$   $
+$   $
