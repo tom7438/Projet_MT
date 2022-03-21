@@ -1,0 +1,22 @@
+$ $bMa$
+
+aMa$ M
+M$ $
+bMb$ M
+
+aa a
+a$ a$
+
+bb b
+b$ b$
+
+a a
+a a$
+bMb M
+
+b b
+b b$
+aMa M
+
+M $
+$$$ $ 
